@@ -1,16 +1,21 @@
-# aog
+# Alcool ou Gasolina
 
-A new Flutter project.
+Vamos criar um App completo e com uma ótima separação, para calcular se é melhor utilizar álcool ou gasolina.
 
-## Getting Started
+# Conteudo do curso
 
-This project is a starting point for a Flutter application.
+- Startup
+- Setup
+- Logo
+- Criando o Input
+- Input Widget
+- Botão Calcular
+- Exibindo o Resultado 
+- Loading Button
+- Success Widget
+- Submit Form
+- Calculando: Parte 1
+- CalculandoL Parte 2
+- Animando o Fundo
+- Conclusão
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
